@@ -42,8 +42,24 @@ relative_link: false
 post_asset_folder: false
 
 # Category & Tag
-default_category: general
+default_category: usual
 category_map:
+  架构设计: archit
+  项目管理: manage
+  编程技术: dev
+  运维测试: ops
+  开源众创: open
+  移动物联: mobi
+  人工智能: smart
+  教程笔记: study
+  业界资讯: news
+  饕餮品鉴: cate
+  浪迹天涯: trip
+  穷奢极侈: enjoy
+  投资理财: money
+  东调西侃: speak
+  游笔戏墨: essay
+  特立独行: other
 tag_map:
 
 # Date / Time format
