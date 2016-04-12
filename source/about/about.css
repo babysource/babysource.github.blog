@@ -329,7 +329,7 @@ a {
     display: block;
     width: 700px;
     height: 550px;
-    padding: 35px 60px;
+    padding: 55px 60px;
     text-align: center;
     margin-top: -55px;
     line-height: 1;
@@ -339,7 +339,7 @@ a {
     box-shadow: 0 2px 6px rgba(0, 0, 0, .1);
     color: rgb(102, 102, 102);
     text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
-    font-size: 50px;
+    font-size: 45px;
     letter-spacing: 3px;
 }
 
