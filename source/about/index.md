@@ -27,7 +27,7 @@ layout: false
 		    <div id="verse" class="step" data-x="-1500" data-y="-1000">
 		    	<p>行万里路&nbsp;&nbsp;※&nbsp;&nbsp;读万卷书</p>
 		    	<p>敲万行码&nbsp;&nbsp;※&nbsp;&nbsp;通万般术</p>
-		    	<p>构万域相&nbsp;&nbsp;※&nbsp;&nbsp;归万匠心</p>
+		    	<p>构万域相&nbsp;&nbsp;※&nbsp;&nbsp;修万匠心</p>
 		    </div>
 		    <div id="become" class="step" data-x="0" data-y="-1000">
 		    	<p>享受成长烦恼&nbsp;&nbsp;♌&nbsp;&nbsp;感悟花样人生</p>
