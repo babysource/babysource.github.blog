@@ -252,19 +252,19 @@ Kibana主要用来展示数据，提供日志分析友好的WEB界面，可以�
 ## 2.5 配置防火墙 （ /etc/sysconfig/iptables ）
 
 	-A INPUT -m state --state NEW -m tcp -p tcp --dport 5000 -j ACCEPT
-
+	
 	-A INPUT -m state --state NEW -m tcp -p tcp --dport 9200 -j ACCEPT
 	
 	-A INPUT -m state --state NEW -m tcp -p tcp --dport 9300 -j ACCEPT
 	
 	-A INPUT -m state --state NEW -m tcp -p tcp --dport 5601 -j ACCEPT
-	
+
 # 3.启动相关服务
 
 	service kibana start
 	service logstash start
 	service elasticsearch start
-	cd 
+	
 	service topbeat start
 	service filebeat start
 
